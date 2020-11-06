@@ -9,9 +9,9 @@ const Navbar = ({history}) => {
     }
   return (
     <nav className="navbar navbar-expand-md navbar-dark bg-dark">
-      <a className="navbar-brand" href="!#">
+      <span className="navbar-brand" >
         HUUB
-      </a>
+      </span>
       <button
         className="navbar-toggler"
         type="button"
